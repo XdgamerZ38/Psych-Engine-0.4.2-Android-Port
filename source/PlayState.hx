@@ -1977,10 +1977,10 @@ class PlayState extends MusicBeatState
 
 		super.update(elapsed);
 
-		if(ratingName == '?') {
-			scoreTxt.text = 'Score: ' + songScore + ' | Ported by Dxgamer | Misses: ' + songMisses + ' | Rating: ' + ratingName;
+		if(ratingString == '?') {
+			scoreTxt.text = 'Score: ' + songScore + ' | Ported by Allie | Misses: ' + songMisses + ' | Rating: ' + ratingName;
 		} else {
-			scoreTxt.text = 'Score: ' + songScore + ' | Ported by Dxgamer | Misses: ' + songMisses + ' | Rating: ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;
+			scoreTxt.text = 'Score: ' + songScore + ' | Ported by Allie | Misses: ' + songMisses + ' | Rating: ' + ratingName + ' (' + Highscore.floorDecimal(ratingPercent * 100, 2) + '%)' + ' - ' + ratingFC;
 		}
 
 		if(cpuControlled) {
