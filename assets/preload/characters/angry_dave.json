@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "angry dave idle"
+		},
+		{
+			"offsets": [
+				43,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angry dave left"
+		},
+		{
+			"offsets": [
+				2,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angry dave down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "angry dave up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angry dave right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry_dave",
+	"position": [
+		170,
+		350
+	],
+	"healthicon": "icon-mad-dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-70,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 3
+}
