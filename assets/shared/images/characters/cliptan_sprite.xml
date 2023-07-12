@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cliptan_sprite.png">
+<SubTexture name="cliptan sprite idle0000" x="0" y="0" width="270" height="425" frameX="-572" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite idle0001" x="270" y="0" width="269" height="408" frameX="-580" frameY="-270" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite idle0002" x="539" y="0" width="273" height="407" frameX="-580" frameY="-269" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite idle0003" x="812" y="0" width="265" height="418" frameX="-583" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite idle0004" x="1077" y="0" width="263" height="419" frameX="-582" frameY="-259" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite idle0005" x="0" y="425" width="266" height="425" frameX="-572" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite idle0006" x="0" y="425" width="266" height="425" frameX="-572" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite idle0007" x="0" y="425" width="266" height="425" frameX="-572" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite left0000" x="266" y="425" width="238" height="421" frameX="-570" frameY="-255" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite left0001" x="504" y="425" width="230" height="421" frameX="-572" frameY="-255" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite left0002" x="734" y="425" width="226" height="423" frameX="-573" frameY="-252" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite left0003" x="960" y="425" width="227" height="424" frameX="-570" frameY="-249" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite down0000" x="0" y="850" width="199" height="388" frameX="-596" frameY="-288" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite down0001" x="199" y="850" width="195" height="384" frameX="-593" frameY="-292" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite down0002" x="394" y="850" width="192" height="385" frameX="-594" frameY="-291" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite down0003" x="586" y="850" width="200" height="388" frameX="-596" frameY="-288" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite up0000" x="786" y="850" width="264" height="384" frameX="-575" frameY="-291" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite up0001" x="0" y="1238" width="266" height="380" frameX="-573" frameY="-295" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite right0000" x="266" y="1238" width="269" height="425" frameX="-572" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite right0001" x="535" y="1238" width="268" height="424" frameX="-576" frameY="-251" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite right0002" x="803" y="1238" width="269" height="425" frameX="-572" frameY="-250" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cliptan sprite right0003" x="1072" y="1238" width="268" height="424" frameX="-576" frameY="-251" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

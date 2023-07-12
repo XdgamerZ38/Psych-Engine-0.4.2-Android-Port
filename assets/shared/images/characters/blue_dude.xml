@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blue dude.png">
+<SubTexture name="blue dude idle0000" x="0" y="0" width="561" height="867" frameX="-106" frameY="-123" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude idle0001" x="561" y="0" width="599" height="847" frameX="-106" frameY="-143" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude idle0002" x="1160" y="0" width="661" height="834" frameX="-106" frameY="-157" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude idle0003" x="1821" y="0" width="661" height="837" frameX="-106" frameY="-154" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude left0000" x="0" y="867" width="733" height="896" frameX="-9" frameY="-102" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude left0001" x="733" y="867" width="639" height="884" frameX="-54" frameY="-109" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude down0000" x="1372" y="867" width="619" height="783" frameX="-82" frameY="-131" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude down0001" x="1991" y="867" width="624" height="793" frameX="-81" frameY="-121" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude up0000" x="0" y="1763" width="592" height="934" frameX="-84" frameY="-42" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude up0001" x="592" y="1763" width="595" height="930" frameX="-81" frameY="-64" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude right0000" x="1187" y="1763" width="741" height="894" frameX="0" frameY="-104" frameWidth="824" frameHeight="1024" />
+<SubTexture name="blue dude right0001" x="1928" y="1763" width="721" height="884" frameX="-4" frameY="-104" frameWidth="824" frameHeight="1024" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="coolswag_bf.png">
+<SubTexture name="coolswag_bf idle0000" x="0" y="1256" width="499" height="616" frameX="-150" frameY="-67" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf idle0001" x="565" y="1872" width="511" height="603" frameX="-137" frameY="-83" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf idle0002" x="2003" y="0" width="508" height="609" frameX="-137" frameY="-77" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf idle0003" x="1506" y="0" width="497" height="620" frameX="-145" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf idle0004" x="1506" y="620" width="497" height="614" frameX="-153" frameY="-69" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf idle0005" x="499" y="1256" width="499" height="616" frameX="-150" frameY="-67" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf right0000" x="0" y="1872" width="565" height="608" frameX="-121" frameY="-77" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf right0001" x="520" y="632" width="556" height="622" frameX="-121" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf up0000" x="0" y="632" width="520" height="624" frameX="-145" frameY="-50" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf up0001" x="992" y="0" width="514" height="627" frameX="-138" frameY="-47" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf down0000" x="2003" y="609" width="498" height="602" frameX="-89" frameY="-80" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf down0001" x="998" y="1256" width="498" height="611" frameX="-89" frameY="-71" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf left0000" x="0" y="0" width="496" height="632" frameX="-80" frameY="-52" frameWidth="720" frameHeight="720" />
+<SubTexture name="coolswag_bf left0001" x="496" y="0" width="496" height="631" frameX="-89" frameY="-53" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

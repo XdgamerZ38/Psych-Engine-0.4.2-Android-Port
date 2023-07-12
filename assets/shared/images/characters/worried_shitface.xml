@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="worried shitface.png">
+<SubTexture name="worried shitface idle0000" x="0" y="0" width="242" height="745" frameX="-131" frameY="-48" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface idle0001" x="242" y="0" width="296" height="796" frameX="-119" frameY="0" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface idle0002" x="859" y="0" width="244" height="796" frameX="-131" frameY="0" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface idle0003" x="538" y="0" width="321" height="740" frameX="-112" frameY="-54" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface idle0004" x="0" y="796" width="321" height="742" frameX="-108" frameY="-50" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface left0000" x="321" y="796" width="388" height="756" frameX="-41" frameY="-31" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface left0001" x="709" y="796" width="390" height="752" frameX="-35" frameY="-31" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface down0000" x="1099" y="796" width="493" height="500" frameX="-25" frameY="-210" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface down0001" x="0" y="1552" width="493" height="501" frameX="-25" frameY="-212" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface up0000" x="493" y="1552" width="433" height="673" frameX="-48" frameY="-31" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface up0001" x="926" y="1552" width="444" height="672" frameX="-37" frameY="-27" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface right0000" x="1370" y="1552" width="475" height="736" frameX="-45" frameY="-42" frameWidth="532" frameHeight="796" />
+<SubTexture name="worried shitface right0001" x="0" y="2288" width="532" height="728" frameX="0" frameY="-46" frameWidth="532" frameHeight="796" />
+</TextureAtlas>
